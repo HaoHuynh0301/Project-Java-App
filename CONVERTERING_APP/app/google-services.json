@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903018973274",
+    "firebase_url": "https://convertering-afa53.firebaseio.com",
+    "project_id": "convertering-afa53",
+    "storage_bucket": "convertering-afa53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903018973274:android:fafd39ed3824b344cef063",
+        "android_client_info": {
+          "package_name": "com.example.convertering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903018973274-umd5ohg3ihdm25qm50dp2r63i7bcdngd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-ydLUfIsft5IAambXcVVLYyVXYzbgQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903018973274-umd5ohg3ihdm25qm50dp2r63i7bcdngd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CONVERTERING</string>
+
+    <string-array name="distance">
+        <item>Km</item>
+        <item>M</item>
+        <item>Dm</item>
+        <item>Cm</item>
+        <item>Mm</item>
+    </string-array>
+    <string-array name="temp">
+        <item>C</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="weight">
+        <item>Tấn</item>
+        <item>Kilogram</item>
+        <item>Gam</item>
+        <item>Miligam</item>z
+    </string-array>
+    <string-array name="speed">
+        <item>km/s</item>
+        <item>m/s</item>
+        <item>km/h</item>
+        <item>mm/s</item>
+    </string-array>
+
+
+</resources>

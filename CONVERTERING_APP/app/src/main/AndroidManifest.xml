@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.convertering">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name="StudyManagement.studymanagement_teacher_suaSinhVien" />
+        <activity android:name="StudyManagement.studymanagement_teacher_themSinhVien" />
+        <activity android:name="StudyManagement.studymanagement_teacher_QuanLySinhVien" />
+        <activity android:name="MainViews.Main2Activity" />
+        <activity android:name="Tools.toolss_Note" />
+        <activity android:name="view.view_note" />
+        <activity android:name="view.new_note" />
+        <activity android:name="view.studymanagement_student_diary" />
+        <activity android:name="Tools.tools_Reminder" />
+        <activity android:name="Tools.tools_Convert_NhietDo" />
+        <activity android:name="Tools.tools_Convert_TocDo" />
+        <activity android:name="Tools.tools_Convert_KhoiLuong" />
+        <activity android:name="Tools.tools_Convert_KhoangCach" />
+        <activity android:name="Tools.tools_Convert" />
+        <activity android:name="Tools.tools_Calculator" />
+        <activity android:name="StudyManagement.studymanagement_student_search" />
+        <activity android:name="StudyManagement.studymanagement_student_uploadvideo" />
+        <activity android:name="StudyManagement.studymanagement_student_Record" />
+        <activity android:name="MainViews.studymanagement_Login" />
+        <activity android:name="MainViews.manHinhWork" />
+        <activity android:name="MainViews.manHinhTools" />
+        <activity android:name="MainViews.manHinhStudy_2" />
+        <activity android:name="MainViews.manHinhStudy" />
+        <activity android:name="MainViews.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
